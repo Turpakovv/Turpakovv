@@ -1,5 +1,10 @@
 ### Hi there I'm Timofey
+I'm 18 y.o.
+## Made in Siberia🥶
 Student SPbPU
+
+⚡ Fun fact: numismatist
+
 
 <!--
 **Turpakovv/Turpakovv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
