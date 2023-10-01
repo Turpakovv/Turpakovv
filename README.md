@@ -1,8 +1,8 @@
 ### Hi there I'm Timofey
-I'm 18 y.o.
+## I'm 18 y.o.
 ## Made in Siberia🥶
-Student SPbPU
-I play volleyball
+# Student SPbPU
+# I play volleyball
 ⚡ Fun fact: numismatist
 
 
