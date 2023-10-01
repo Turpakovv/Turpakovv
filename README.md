@@ -2,7 +2,7 @@
 I'm 18 y.o.
 ## Made in Siberia🥶
 Student SPbPU
-
+I play volleyball
 ⚡ Fun fact: numismatist
 
 
