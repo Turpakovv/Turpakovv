@@ -4,7 +4,8 @@
  Student SPbPU
  I play volleyball
 ⚡ Fun fact: numismatist
-
+# VK: https://vk.com/turpakovv
+# Inst: https://instagram.com/turpakov
 
 <!--
 **Turpakovv/Turpakovv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
